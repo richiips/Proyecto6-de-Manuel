@@ -1,0 +1,44 @@
+body{
+    font-family: roboto;
+    background-color: black;
+}
+.bportafolios{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    width: 100px;
+    height: 40px;
+    
+
+  }
+  #Hero-Section {
+    background-image: url("../imgs/Fondo1.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+  }
+.main{
+    background-color: rgb(20, 20, 20);
+    color: white;
+    
+}
+
+.tarjetas{
+    background-color: rgb(85, 74, 69);
+    color: black;
+}
+.col{
+    border-width: 6px;
+    color: black;
+}
+.pies{
+    background-color: rgb(104, 101, 60);
+    color: white;
+
+}
+.blanco{
+    color: white;
+}
+
+
